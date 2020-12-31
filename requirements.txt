@@ -1,0 +1,9 @@
+asgiref==1.2.3
+certifi==2019.6.16
+chardet==2.0.4
+Django==1.0.7
+djangorestframework==1.11.0
+idna==2.8
+Pillow==6.1.2
+pytz==2019.1
+sqlparse==0.3.0
